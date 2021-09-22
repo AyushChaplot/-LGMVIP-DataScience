@@ -10,3 +10,6 @@
 ## Task-3:
 ### Stock Market Prediction And Forecasting Using Stacked LSTM
 ### Dataset: https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
+
+## Task-4:
+### Image to Pencil Sketch with Python
